@@ -1,4 +1,8 @@
 ---
+genres:
+  - arcade
+  - platformer
+  - action
 directors_cut: https://rainbowroad.surge.sh/
 post: https://chainsawteam.com/
 # See github.com/js13kGames/hello-world for supported frontmatter
